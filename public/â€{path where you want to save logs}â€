@@ -2393,3 +2393,219 @@
 
 [4540] Log closed at 2022-09-09 20:04:35.521033
 
+[8492] Log opened at 2022-09-12 09:46:38.131552
+[8492] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[8492] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[8492] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="8492" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[8492] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[8492] Log closed at 2022-09-12 09:46:46.201299
+
+[8492] Log opened at 2022-09-12 09:46:46.689116
+[8492] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[8492] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[8492] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="8492" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[8492] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[8492] Log closed at 2022-09-12 09:46:46.695569
+
+[8492] Log opened at 2022-09-12 09:46:58.025235
+[8492] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[8492] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[8492] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="8492" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[8492] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[8492] Log closed at 2022-09-12 09:47:01.419486
+
+[8492] Log opened at 2022-09-12 09:47:01.424647
+[8492] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[8492] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[8492] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="8492" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[8492] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[8492] Log closed at 2022-09-12 09:47:02.234636
+
+[8492] Log opened at 2022-09-12 09:47:02.301356
+[8492] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[8492] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[8492] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="8492" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[8492] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[8492] Log closed at 2022-09-12 09:47:03.916316
+
+[8492] Log opened at 2022-09-12 09:47:03.924998
+[8492] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[8492] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[8492] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="8492" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[8492] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[8492] Log closed at 2022-09-12 09:47:04.623461
+
+[8492] Log opened at 2022-09-12 09:47:04.628500
+[8492] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[8492] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[8492] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="8492" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[8492] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[8492] Log closed at 2022-09-12 09:47:04.631081
+
+[8492] Log opened at 2022-09-12 09:47:07.567116
+[8492] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[8492] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[8492] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="8492" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[8492] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[8492] Log closed at 2022-09-12 09:47:08.507540
+
+[8492] Log opened at 2022-09-12 09:47:08.538765
+[8492] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[8492] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[8492] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="8492" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[8492] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[8492] Log closed at 2022-09-12 09:47:09.114004
+
+[8492] Log opened at 2022-09-12 09:47:09.117393
+[8492] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[8492] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[8492] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="8492" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[8492] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[8492] Log closed at 2022-09-12 09:47:09.714022
+
+[8492] Log opened at 2022-09-12 09:47:09.763721
+[8492] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[8492] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[8492] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="8492" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[8492] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[8492] Log closed at 2022-09-12 09:47:09.767144
+
+[8492] Log opened at 2022-09-12 15:54:04.483897
+[8492] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[8492] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[8492] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="8492" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[8492] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[8492] Log closed at 2022-09-12 15:54:08.202713
+
+[8492] Log opened at 2022-09-12 15:54:08.293867
+[8492] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[8492] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[8492] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="8492" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[8492] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[8492] Log closed at 2022-09-12 15:54:08.585710
+
+[8492] Log opened at 2022-09-12 15:54:08.586877
+[8492] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[8492] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[8492] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="8492" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[8492] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[8492] Log closed at 2022-09-12 15:54:08.780698
+
+[8492] Log opened at 2022-09-12 15:54:12.690287
+[8492] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[8492] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[8492] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="8492" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[8492] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[8492] Log closed at 2022-09-12 15:54:12.691702
+
+[6376] Log opened at 2022-09-13 13:49:31.215355
+[6376] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[6376] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[6376] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="6376" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[6376] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[6376] Log closed at 2022-09-13 13:49:34.403076
+
+[6376] Log opened at 2022-09-13 13:49:34.408210
+[6376] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[6376] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[6376] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="6376" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[6376] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[6376] Log closed at 2022-09-13 13:49:35.684071
+
+[6376] Log opened at 2022-09-13 13:49:35.745980
+[6376] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[6376] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[6376] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="6376" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[6376] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[6376] Log closed at 2022-09-13 13:49:36.497158
+
+[6376] Log opened at 2022-09-13 13:49:36.499089
+[6376] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[6376] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[6376] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="6376" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[6376] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[6376] Log closed at 2022-09-13 13:49:36.963210
+
+[6376] Log opened at 2022-09-13 13:49:37.066698
+[6376] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[6376] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[6376] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="6376" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[6376] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[6376] Log closed at 2022-09-13 13:49:37.068496
+
+[6376] Log opened at 2022-09-13 13:49:42.538253
+[6376] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[6376] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[6376] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="6376" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[6376] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[6376] Log closed at 2022-09-13 13:49:43.353952
+
+[6376] Log opened at 2022-09-13 13:49:43.469544
+[6376] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[6376] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[6376] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="6376" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[6376] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[6376] Log closed at 2022-09-13 13:49:43.985993
+
+[6376] Log opened at 2022-09-13 13:49:43.988633
+[6376] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[6376] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[6376] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="6376" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[6376] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[6376] Log closed at 2022-09-13 13:49:44.554400
+
+[6376] Log opened at 2022-09-13 13:49:44.589678
+[6376] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[6376] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[6376] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/vendor/laravel/framework/src/Illuminate/Foundation/resources/server.php" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="6376" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[6376] [Step Debug] -> <response xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" status="stopping" reason="ok"></response>
+
+[6376] Log closed at 2022-09-13 13:49:44.592164
+

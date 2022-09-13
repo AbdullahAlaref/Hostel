@@ -344,3 +344,13 @@
 [6752] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
 [6752] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/artisan" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="6752" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
 
+[2588] Log opened at 2022-09-12 09:45:52.332957
+[2588] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[2588] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[2588] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/artisan" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="2588" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[10164] Log opened at 2022-09-13 13:49:02.405932
+[10164] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[10164] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[10164] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/artisan" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="10164" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
