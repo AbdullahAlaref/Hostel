@@ -21,26 +21,26 @@
         </tr>
     </thead>
     <tbody>
-        @forelse ($booking as $bookings)
+        @forelse ( $booking as $bookings)
             <tr>
-                <td>{{ $booking->id }}</td>
-                <td>{{ $booking->room_id }}</td>
-                <td>{{ date('F d, Y', strtotime($booking->start)) }}</td>
-                <td>{{ date('F d, Y', strtotime($booking->end)) }}</td>
-                <td>{{ $booking->is_reservation ? 'Yes' : 'No' }}</td>
-                <td>{{ $booking->is_paid ? 'Yes' : 'No' }}</td>
-                <td>{{ (strtotime($booking->start) < time()) ? 'Yes' : 'No' }}</td>
-                <td>{{ (strtotime($booking->end) < time()) ? 'Yes' : 'No' }}</td>
-                <td>{{ date('F d, Y', strtotime($booking->created_at)) }}</td>
+                <td>{{ $bookings->id }}</td>
+                <td>{{ $bookings->room_id }}</td>
+                <td>{{ date('F d, Y', strtotime($bookings->start)) }}</td>
+                <td>{{ date('F d, Y', strtotime($bookings->end)) }}</td>
+                <td>{{ $bookings->is_reservation ? 'Yes' : 'No' }}</td>
+                <td>{{ $bookings->is_paid ? 'Yes' : 'No' }}</td>
+                <td>{{ (strtotime($bookings->start) < time()) ? 'Yes' : 'No' }}</td>
+                <td>{{ (strtotime($bookings->end) < time()) ? 'Yes' : 'No' }}</td>
+                <td>{{ date('F d, Y', strtotime($bookings->created_at)) }}</td>
                 <td class="actions">
                     <a
-                        href="{{ action('BookingController@show', ['booking' => $booking->id]) }}"
+                        href="{{ action('App\Http\Controllers\BookingController@show', ['booking' => $bookings->id]) }}"
                         alt="View"
                         title="View">
                       View
                     </a>
                     <a
-                        href="{{ action('BookingController@edit', ['booking' => $booking->id]) }}"
+                        href="{{ action('App\Http\Controllers\BookingController@edit', ['booking' => $bookings->id]) }}"
                         alt="Edit"
                         title="Edit">
                       Edit

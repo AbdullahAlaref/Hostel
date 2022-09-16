@@ -16,7 +16,9 @@ class BookingController extends Controller
      */
     public function index()
     {
+       
         $booking=DB::table('bookings')->get();
+        // dd($booking);
         return view('bookings.index')
         ->with('booking', $booking);
 
@@ -45,7 +47,22 @@ class BookingController extends Controller
      */
     public function store(Request $request)
     {
-        //
+      
+       $id=DB::table('bookings')->insertGetid([
+        'room_id'=> $request->input('room_id'),
+        'start'=> $request->input('start'),
+        'end'=> $request->input('end'),
+        'is_reservation'=> $request->input('is_reservation', false),
+        'is_paid'=> $request->input('is_paid', false),
+        'notes'=> $request->input('notes'),
+       ]);
+       DB::table('bookings_users')->insert ([
+        'booking_id'=> $id,
+        'user_id'=>$request->input('user_id'),
+       ]);
+
+      return redirect()->action('App\Http\Controllers\BookingController@index');
+
     }
 
     /**

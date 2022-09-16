@@ -15,7 +15,8 @@ use App\Http\Controllers\BookingController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    $booking=DB::table('bookings')->get();
+    return view('bookings.index')->with('booking', $booking);
  });
  
 Route::get('/rooms', [ShowRoomsController::class, 'rooms_']);
