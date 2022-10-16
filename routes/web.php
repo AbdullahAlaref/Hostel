@@ -3,6 +3,8 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ShowRoomsController;
 use App\Http\Controllers\BookingController;
+use App\Models\Booking;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -15,9 +17,14 @@ use App\Http\Controllers\BookingController;
 */
 
 Route::get('/', function () {
+    // return redirect()->action('App\Http\Controllers\BookingController@index');
+
     $booking=DB::table('bookings')->get();
-    return view('bookings.index')->with('booking', $booking);
+    // $bookings= Booking::paginate(1);
+    return view('bookings.index')
+    // ->with('bookings', $bookings)
+    ->with('booking', $booking);
  });
  
-Route::get('/rooms', [ShowRoomsController::class, 'rooms_']);
+Route::get('/rooms/{roomType?}', [ShowRoomsController::class, 'rooms_']);
 Route::resource('/bookings','App\Http\Controllers\BookingController');

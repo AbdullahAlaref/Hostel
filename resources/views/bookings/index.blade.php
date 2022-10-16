@@ -1,3 +1,4 @@
+
 @extends('layouts.app')
 
 @section('buttons')
@@ -45,10 +46,20 @@
                         title="Edit">
                       Edit
                     </a>
+                    
+                    <form action="{{ action('App\Http\Controllers\BookingController@destroy',
+                         ['booking' => $bookings->id]) }}" method="POST">
+                        @method('DELETE')
+                        @csrf()
+                        <button type="submit" class="btn btn-link" title="delete" value="DELETE"> Delete </button>
                 </td>
             </tr>
+
         @empty
+
         @endforelse
+
     </tbody>
 </table>
+
 @endsection
