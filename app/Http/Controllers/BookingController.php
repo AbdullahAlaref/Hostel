@@ -36,8 +36,8 @@ class BookingController extends Controller
      */
     public function create()
     {
-        $users=DB::table('users')->get()->pluck('name','id');
-        $rooms=DB::table('rooms')->get()->pluck('number','id');
+        $users=DB::table('users')->get()->pluck('name','id')->prepend('');
+        $rooms=DB::table('rooms')->get()->pluck('number','id')->prepend('');
         return view ('bookings.create')
         ->  with('users', $users)
         ->  with('booking', (new Booking()))
@@ -91,8 +91,8 @@ class BookingController extends Controller
      */
     public function edit(Booking $booking)
     {
-        $users=DB::table('users')->get()->pluck('name','id')->prepend('');
-        $rooms=DB::table('rooms')->get()->pluck('number','id')->prepend('');
+        $users=DB::table('users')->get()->pluck('name','id');
+        $rooms=DB::table('rooms')->get()->pluck('number','id');
         $bookingsUser=DB::table('bookings_users')->get()->where('booking_id',$booking->id)->first();
         // dd($users,$rooms,$bookingsUser,$booking);
         return view ('bookings.edit')
@@ -143,7 +143,7 @@ class BookingController extends Controller
         // dd($booking);
         DB::table('bookings_users')->where('booking_id',$booking->id)->delete();
         $booking->delete();
-        // DB::table('bookings')->where('id',$booking->id)->delete();
+         DB::table('bookings')->where('id',$booking->id)->delete();
         return redirect()->action('App\Http\Controllers\BookingController@index');
        
     }

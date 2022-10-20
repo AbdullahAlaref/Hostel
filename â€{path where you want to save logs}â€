@@ -544,3 +544,13 @@
 [3868] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
 [3868] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/artisan" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="3868" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
 
+[9516] Log opened at 2022-10-17 16:00:47.952383
+[9516] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[9516] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[9516] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/artisan" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="9516" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
+[8820] Log opened at 2022-10-18 18:39:48.715134
+[8820] [Step Debug] INFO: Connecting to configured address/port: 127.0.0.1:9001.
+[8820] [Step Debug] INFO: Connected to debugging client: 127.0.0.1:9001 (through xdebug.client_host/xdebug.client_port). :-)
+[8820] [Step Debug] -> <init xmlns="urn:debugger_protocol_v1" xmlns:xdebug="https://xdebug.org/dbgp/xdebug" fileuri="file:///C:/xampp/htdocs/Hostel/artisan" language="PHP" xdebug:language_version="8.0.11" protocol_version="1.0" appid="8820" idekey="VSCODE"><engine version="3.1.5"><![CDATA[Xdebug]]></engine><author><![CDATA[Derick Rethans]]></author><url><![CDATA[https://xdebug.org]]></url><copyright><![CDATA[Copyright (c) 2002-2022 by Derick Rethans]]></copyright></init>
+
